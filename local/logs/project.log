@@ -1,0 +1,58 @@
+2018-11-21T18:24:46.633Z - normal: Load ~/.CocosCreator/settings.json
+2018-11-21T18:24:46.667Z - normal: Initializing Asset Database
+2018-11-21T18:24:46.668Z - normal: checking language setting...
+2018-11-21T18:24:46.669Z - normal: Language: zh
+2018-11-21T18:24:47.259Z - success: preview server running at http://localhost:7456
+2018-11-21T18:24:47.290Z - success: protocol editor-framework registered
+2018-11-21T18:24:47.290Z - success: protocol app registered
+2018-11-21T18:24:47.290Z - success: protocol theme registered
+2018-11-21T18:24:47.291Z - success: protocol packages registered
+2018-11-21T18:24:47.291Z - success: protocol uuid registerred
+2018-11-21T18:24:47.291Z - success: protocol db registerred
+2018-11-21T18:24:47.291Z - success: protocol thumbnail registerred
+2018-11-21T18:24:47.291Z - success: protocol unpack registerred
+2018-11-21T18:24:47.291Z - success: protocol disable-commonjs registerred
+2018-11-21T18:24:47.904Z - normal: connected!
+2018-11-21T18:24:47.905Z - normal: Check project /Users/lear/workspaces/ccc/LearGame/Adcx
+2018-11-21T18:24:47.906Z - normal: Initializing project /Users/lear/workspaces/ccc/LearGame/Adcx
+2018-11-21T18:24:48.429Z - normal: Initializing Cocos2d
+2018-11-21T18:24:48.985Z - normal: Initializing engine extends
+2018-11-21T18:24:48.987Z - normal: Loading editor/builtin packages
+2018-11-21T18:24:49.464Z - success: assets loaded
+2018-11-21T18:24:49.509Z - success: builder loaded
+2018-11-21T18:24:49.534Z - success: cocos-analytics loaded
+2018-11-21T18:24:49.550Z - success: console loaded
+2018-11-21T18:24:49.618Z - success: fb-instant-games loaded
+2018-11-21T18:24:49.622Z - success: google-instant-games loaded
+2018-11-21T18:24:49.678Z - success: hierarchy loaded
+2018-11-21T18:24:49.842Z - success: inspector loaded
+2018-11-21T18:24:49.855Z - success: keystore loaded
+2018-11-21T18:24:49.955Z - success: node-library loaded
+2018-11-21T18:24:50.002Z - success: package-asset loaded
+2018-11-21T18:24:50.007Z - success: preferences loaded
+2018-11-21T18:24:50.040Z - success: project-exporter loaded
+2018-11-21T18:24:50.072Z - success: project-importer loaded
+2018-11-21T18:24:50.090Z - success: project-settings loaded
+2018-11-21T18:24:50.104Z - success: ui-kit loaded
+2018-11-21T18:24:50.115Z - success: scene loaded
+2018-11-21T18:24:50.116Z - success: simulator-debugger loaded
+2018-11-21T18:24:50.117Z - success: sprite-editor loaded
+2018-11-21T18:24:50.130Z - success: store loaded
+2018-11-21T18:24:50.145Z - success: timeline loaded
+2018-11-21T18:24:50.330Z - normal: Loading packages
+2018-11-21T18:24:50.358Z - success: asset-db-debugger loaded
+2018-11-21T18:24:50.359Z - success: color-picker loaded
+2018-11-21T18:24:50.425Z - success: google-play-instant loaded
+2018-11-21T18:24:50.426Z - success: jsb-adapter loaded
+2018-11-21T18:24:50.440Z - success: package-manager loaded
+2018-11-21T18:24:50.530Z - success: qqplay-adapter loaded
+2018-11-21T18:24:50.544Z - success: sdkbox loaded
+2018-11-21T18:24:50.558Z - success: tester loaded
+2018-11-21T18:24:50.571Z - success: ui-grid loaded
+2018-11-21T18:24:50.582Z - success: ui-kit-preview-extra loaded
+2018-11-21T18:24:50.595Z - success: ui-kit-preview loaded
+2018-11-21T18:24:50.608Z - success: ui-tree loaded
+2018-11-21T18:24:50.634Z - success: cpk-publish loaded
+2018-11-21T18:24:50.635Z - success: weapp-adapter loaded
+2018-11-21T18:24:50.636Z - normal: Watching packages
+2018-11-21T18:24:50.679Z - normal: Run Application

@@ -1,0 +1,1 @@
+{"version":3,"sources":["I18nManager.ts"],"names":[],"mappings":";;;;AAAA;;GAEG;;AAEH,cAAqB,OAAe;IAChC,OAAO,OAAO,CAAA;AAClB,CAAC;AAFD,oBAEC","file":"","sourceRoot":"../../../../../assets/script/core","sourcesContent":["/**\n * 国际化管理\n */\n\nexport function i18n(content: string): string {\n    return content\n}"]}

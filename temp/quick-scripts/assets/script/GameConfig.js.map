@@ -1,0 +1,1 @@
+{"version":3,"sources":["GameConfig.ts"],"names":[],"mappings":";;;;AAAA;;;GAGG;;AAEH,UAAU;AACC,QAAA,SAAS,GAAG,uBAAuB,CAAA,CAAA,+BAA+B","file":"","sourceRoot":"../../../../assets/script","sourcesContent":["/**\n * 项目配置\n * lear\n */\n\n// 当前的网络配置\nexport let ServerUrl = \"http://localhost:5555\"// \"http://193.112.105.97:5555\""]}

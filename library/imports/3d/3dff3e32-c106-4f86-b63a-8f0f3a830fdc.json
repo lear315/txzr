@@ -1,0 +1,9 @@
+{
+  "__type__": "cc.ParticleAsset",
+  "_name": "loading_par",
+  "_objFlags": 0,
+  "_native": ".plist",
+  "texture": {
+    "__uuid__": "6d99122d-67d6-42e8-b741-42b8b7a96cb7"
+  }
+}

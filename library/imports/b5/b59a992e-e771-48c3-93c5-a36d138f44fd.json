@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "stick_bg",
+    "texture": "9122b2e5-d330-4ad3-9fef-4cec3c21dd17",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      103,
+      103
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      103,
+      103
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
